@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Siri</h1>
-<h3 align="center">A frontend developer from Gothenburg, Sweden</h3>
+<h3 align="center">A developer from Gothenburg, Sweden</h3>
 
 
