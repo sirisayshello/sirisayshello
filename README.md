@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **sirisayshello/sirisayshello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello 👋, I'm Siri</h1>
+<h3 align="center">A frontend developer from Gothenburg, Sweden</h3>
+
+
